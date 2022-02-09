@@ -52,5 +52,12 @@ Let us learn the mechanism behind RSA algorithm :
     Decrypted Data = cd mod n. 
     Thus our Encrypted Data comes out to be 89
     8 = H and I = 9 i.e. "HI".
+    
+    
+An example of running the program:
+
+
+![rsa](https://user-images.githubusercontent.com/45950266/153176359-eb0cf2c4-4e96-46b6-af79-eabea86123e1.png)
+
 
 The description was from geeksforgeeks website.
